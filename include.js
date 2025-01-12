@@ -1,22 +1,22 @@
 let cards = [
   {
     apkName: 'Educational bot',
-    imageLink: 'img/edu.png',    
-    downloadLink: 'app/educational bot v2.0.1 1.0.apk',
+    imageLink: 'edu.png',    
+    downloadLink: 'educational bot v2.0.1 1.0.apk',
     author: 'Metoushela Walker',
     githubLink: 'https://github.com/'
   },
   {
     apkName: 'Tic-Tac-Toe 2 player Game',
-    imageLink: 'img/tick.png',
-    downloadLink: 'app/tic-tac-toe 1.0.apk',
+    imageLink: 'tick.png',
+    downloadLink: 'tic-tac-toe 1.0.apk',
     author: 'Metoushela Walker',
     githubLink: 'https://github.com/'
   },
   {
     apkName: 'Wheather app',
-    imageLink: 'img/weather.png',
-    downloadLink: './Apks/fitness-tracker/fitness-tracker.apk',
+    imageLink: 'weather.png',
+    downloadLink: 'weather.apk',
     author: 'Metoushela Walker',
     githubLink: 'https://github.com/'
   }
